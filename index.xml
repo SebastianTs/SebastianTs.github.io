@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (c) 2017, Schützengilde Flämingrand e.V.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 12:39:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 14:13:24 +0200</lastBuildDate>
     
 	<atom:link href="https://sebastiants.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neues Waffenrecht</title>
+      <link>https://sebastiants.github.io/blog/2017/10/06/neues_waffenrecht/</link>
+      <pubDate>Fri, 06 Oct 2017 14:13:24 +0200</pubDate>
+      
+      <guid>https://sebastiants.github.io/blog/2017/10/06/neues_waffenrecht/</guid>
+      <description>&lt;p&gt;Am 06.07.2017 ist ein neues Waffengesetz in Kraft getreten. Die wichtigsten Änderungen betreffen die Lagerung von Waffen und Munition.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>https://sebastiants.github.io/blog/2017/10/06/termine/</link>
+      <pubDate>Fri, 06 Oct 2017 13:44:37 +0200</pubDate>
+      
+      <guid>https://sebastiants.github.io/blog/2017/10/06/termine/</guid>
+      <description>&lt;p&gt;Dies sind die geplanten Termine im Jahr 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mitgliedschaft</title>
