@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SGi Flämingrand e.V.</title>
-    <link>http://www.sgi-flaeminrand.de/tags/</link>
+    <link>https://sebastiants.github.io/tags/</link>
     <description>Recent content in Tags on SGi Flämingrand e.V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (c) 2017, Schützengilde Flämingrand e.V.</copyright>
     <lastBuildDate>Fri, 06 Oct 2017 12:39:56 +0200</lastBuildDate>
     
-	<atom:link href="http://www.sgi-flaeminrand.de/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sebastiants.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Downloads</title>
-      <link>http://www.sgi-flaeminrand.de/tags/downloads/</link>
+      <link>https://sebastiants.github.io/tags/downloads/</link>
       <pubDate>Fri, 06 Oct 2017 12:39:56 +0200</pubDate>
       
-      <guid>http://www.sgi-flaeminrand.de/tags/downloads/</guid>
+      <guid>https://sebastiants.github.io/tags/downloads/</guid>
       <description></description>
     </item>
     
