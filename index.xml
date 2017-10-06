@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>Copyright (c) 2017, Schützengilde Flämingrand e.V.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 14:13:24 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 20:48:16 +0200</lastBuildDate>
     
 	<atom:link href="https://sebastiants.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sport</title>
+      <link>https://sebastiants.github.io/blog/2017/10/06/sport/</link>
+      <pubDate>Fri, 06 Oct 2017 20:48:16 +0200</pubDate>
+      
+      <guid>https://sebastiants.github.io/blog/2017/10/06/sport/</guid>
+      <description>Impressionen vom Schießen
+      </description>
+    </item>
     
     <item>
       <title>Neues Waffenrecht</title>
